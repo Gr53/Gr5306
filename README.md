@@ -17,7 +17,14 @@ hechos de violencia y/o maltrato, del cual pueden ser victimas las mujeres.
 ### Login de Usuario
 * El usuario se podra registrar usando autenticacion en redes sociales.
 * En el registro soliictara datos basicos de situacion actual del cliente
-*  
+* El reporte se evidencia en la central de la policia
+* La central de la policia puede identificar en que sector tiene ubicada una patrulla de policia y asigna el caso y se reciba de forma satisfactoria por la patrulla. (recibir el caso)
+* La patrulla de policia asiste a la direccion del reporte por medio de ayuda de navegacion
+* la patrulla debe reportar la llegada, y hacer las anotaciones necesarias en la app de la solucion brindada y el estado de la solicitud
+(abierta, cerrada, pendiente)
+* La usuaria podra ver su reporte en un historial y la respuesta de la patrulla, asi como los pasos a seguir para finalizar su tramite (falta por consolidar denuncia, verificar si existen restricciones o anotaciones previas)
+* la solucion se muestra en esquema grafico con el fin de evidenciar las soluciones y pendientes reportados 
+
 
 ### 
 * 
